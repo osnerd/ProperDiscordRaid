@@ -1,3 +1,5 @@
+## dont forget to star! 50 stars for an full functioned one in GoLang or py again
+
 import asyncio
 import threading
 import random
